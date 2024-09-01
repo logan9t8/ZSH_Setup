@@ -85,7 +85,7 @@ bindkey "$terminfo[kcud1]" history-substring-search-down
 Add ```arrows.sh```, ```tmux_bindings.sh``` and ```tmux.conf``` to home dir and rename them by prefixing with a ```.```
 
 ## Credits
-1. https://sourceforge.net/projects/zsh/
+1. https://sourceforge.net/projects/zsh
 1. https://github.com/wting/autojump
 1. https://github.com/tonsky/FiraCode
 1. https://github.com/junegunn/fzf
@@ -96,7 +96,7 @@ Add ```arrows.sh```, ```tmux_bindings.sh``` and ```tmux.conf``` to home dir and 
 1. https://github.com/pygments/pygments
 1. https://github.com/mvdan/sh
 1. https://github.com/koalaman/shellcheck
-1. https://github.com/tmux/tmux/wiki
+1. https://github.com/tmux/tmux
 1. https://github.com/zsh-users/zsh-completions
 1. https://github.com/zsh-users/zsh-history-substring-search
 1. https://github.com/zsh-users/zsh-syntax-highlighting
